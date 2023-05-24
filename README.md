@@ -1,7 +1,7 @@
 Hi there This is Kushankur Das 👋
 Welcome into my github profile
 - 🔭 I’m currently working on Front End Develpment
-- 🌱 I’m currently learning ReactJs
+- Techstack I worked on are  HTML, CSS, React, Bootstrap, WordPress
 - 💬 Ask me about OOPs
 - 📫 How to reach me: https://www.facebook.com/kushankur.das/     https://www.linkedin.com/in/kushankur-das-6b2655191/
 <!--- - 😄 Pronouns: ...
